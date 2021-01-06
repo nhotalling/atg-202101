@@ -7,3 +7,4 @@
  - 01/04/2021 - DB Fundamentals - Watched section 5.
 
 - 01/05/2021 - Oooh, shiny! [Android Apps with Kotlin](https://app.pluralsight.com/library/courses/android-apps-kotlin-build-first-app/table-of-contents) - Start watching section 2, update Android Studio, set up app to follow along with demo
+- 01/06/2021 - Watched more of section 2 and got stuck waiting on giant Android Studio SDK updates. Read a little about Material design components while I waited. Got proof of concept to run. Finished Section 2.
