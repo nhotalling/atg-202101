@@ -12,3 +12,4 @@
 - 01/08/2021 - Finished section 3, stubbed in code from demos
 - 01/09/2021 - Watched majority of section 4 - learned about layout constraints and adapters for wiring up a spinner
 - 01/10/2021 - Finish section 4, run demo app to test progress
+- 01/11/2021 - Start section 5
