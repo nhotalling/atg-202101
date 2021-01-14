@@ -15,3 +15,4 @@
 - 01/11/2021 - Start section 5
 - 01/12/2021 - Continue section 5, wire up multi-screen flow
 - 01/13/2021 - Finish section 5, pass extra data between activities
+- 01/14/2021 - Start section 6, learn about options menu
