@@ -17,3 +17,4 @@
 - 01/13/2021 - Finish section 5, pass extra data between activities
 - 01/14/2021 - Start section 6, learn about options menu
 - 01/15/2021 - Continue section 6, menu items as app bar actions
+- 01/16/2021 - Continue section 6, null safety
