@@ -18,3 +18,4 @@
 - 01/14/2021 - Start section 6, learn about options menu
 - 01/15/2021 - Continue section 6, menu items as app bar actions
 - 01/16/2021 - Continue section 6, null safety
+- 01/17/2021 - Finish 6, start 7 - activity lifecycle
