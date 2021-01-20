@@ -20,4 +20,5 @@
 - 01/16/2021 - Continue section 6, null safety
 - 01/17/2021 - Finish 6, start 7 - activity lifecycle
 - 01/18/2021 - Continue 7 - persist data item
-- 01/18/2021 - Continue 7 - learn about tasks, activity instance state
+- 01/19/2021 - Continue 7 - learn about tasks, activity instance state
+- 01/20/2021 - Continue 7 - save/restore instance state
