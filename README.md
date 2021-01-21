@@ -22,3 +22,4 @@
 - 01/18/2021 - Continue 7 - persist data item
 - 01/19/2021 - Continue 7 - learn about tasks, activity instance state
 - 01/20/2021 - Continue 7 - save/restore instance state
+- 01/21/2021 - Finished course. Next?
