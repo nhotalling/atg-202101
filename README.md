@@ -23,3 +23,6 @@
 - 01/19/2021 - Continue 7 - learn about tasks, activity instance state
 - 01/20/2021 - Continue 7 - save/restore instance state
 - 01/21/2021 - Finished course. Next?
+
+- 01/21/2021 - [Getting Started with Android Development](https://app.pluralsight.com/library/courses/962c96ba-a414-42d6-882d-d9eecf28a3ff) - Watch secctions 1-3 - choosing
+api levels, app requirement considerations, androidx overview, environment setup
