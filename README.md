@@ -27,3 +27,4 @@
 - 01/22/2021 - [Getting Started with Android Development](https://app.pluralsight.com/library/courses/962c96ba-a414-42d6-882d-d9eecf28a3ff) - Watch sections 1-3 - choosing
 api levels, app requirement considerations, androidx overview, environment setup
 - 01/23/2021 - Start section 4 - gradle build system
+- 01/24/2021 - Start section 5 - Android layout system, displaying list data (RecyclerView, Adapter, ViewHolder...my head hurts)
