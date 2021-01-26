@@ -29,3 +29,4 @@ api levels, app requirement considerations, androidx overview, environment setup
 - 01/23/2021 - Start section 4 - gradle build system
 - 01/24/2021 - Start section 5 - Android layout system, displaying list data (RecyclerView, Adapter, ViewHolder...my head hurts)
 - 01/25/2021 - Continue section 5 - Loading remote data with Retrofit, Intents
+- 01/26/2021 - Finish section 5 - Display details
