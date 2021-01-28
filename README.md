@@ -31,3 +31,4 @@ api levels, app requirement considerations, androidx overview, environment setup
 - 01/25/2021 - Continue section 5 - Loading remote data with Retrofit, Intents
 - 01/26/2021 - Finish section 5 - Display details
 - 01/27/2021 - Start section 6 - JetPack info
+- 01/28/2021 - Finished training.
