@@ -32,3 +32,7 @@ api levels, app requirement considerations, androidx overview, environment setup
 - 01/26/2021 - Finish section 5 - Display details
 - 01/27/2021 - Start section 6 - JetPack info
 - 01/28/2021 - Finished training.
+
+- 01/29/2021 - [RecyclerView and Navigation Drawer](https://app.pluralsight.com/library/courses/android-apps-kotlin-recyclerview-navigation-drawer/table-of-contents)
+    Start section 2
+    
