@@ -35,4 +35,5 @@ api levels, app requirement considerations, androidx overview, environment setup
 
 - 01/29/2021 - [RecyclerView and Navigation Drawer](https://app.pluralsight.com/library/courses/android-apps-kotlin-recyclerview-navigation-drawer/table-of-contents)
     Start section 2
+- 01/30/2021 - Continue section 2 - recyclerview, cardview
     
