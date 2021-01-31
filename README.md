@@ -1,5 +1,7 @@
 # atg-202101
 
+## January 2021
+
 - 01/01/2021 - Identified a few React Native and SQL Server courses in Pluralsight. Started with [SQL Server: Understanding Database Fundamentals 98-364](https://app.pluralsight.com/library/courses/sqlserver-database-fundamentals/table-of-contents)
  to brush up on db fundamentals. Watched sections 1-3.
  - 01/02/2021 - DB Fundamentals - Started section 4.
@@ -36,4 +38,13 @@ api levels, app requirement considerations, androidx overview, environment setup
 - 01/29/2021 - [RecyclerView and Navigation Drawer](https://app.pluralsight.com/library/courses/android-apps-kotlin-recyclerview-navigation-drawer/table-of-contents)
     Start section 2
 - 01/30/2021 - Continue section 2 - recyclerview, cardview
+- 01/31/2021 - Revisit section 2 topics, update notes. Finish section 2 - layout managers, recap.
+
+## w00t - Achievement Unlocked. Jan 2021 100%
+
+Lessons learned
+
+- It's good to have a reason, motivation, and support to do what I've been wanting to do (self-study)
+- Habit beats quantity. Some days there may only be time for 5 minutes, but I'm making it a point to take those 5 minutes.
+- As Scott B. mentioned, it's going to take actual coding to make this stuff stick. I immensely enjoy the videos, but the fragmented nature of watching bits and pieces spread throughout the month doesn't make for practical learning (applying what I've learned). I may consider ramping down the videos and spend a month working on projects. Perhaps I'll target March for this as I'd like to continue with Android and SQL videos.
     
