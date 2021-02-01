@@ -47,4 +47,9 @@ Lessons learned
 - It's good to have a reason, motivation, and support to do what I've been wanting to do (self-study)
 - Habit beats quantity. Some days there may only be time for 5 minutes, but I'm making it a point to take those 5 minutes.
 - As Scott B. mentioned, it's going to take actual coding to make this stuff stick. I immensely enjoy the videos, but the fragmented nature of watching bits and pieces spread throughout the month doesn't make for practical learning (applying what I've learned). I may consider ramping down the videos and spend a month working on projects. Perhaps I'll target March for this as I'd like to continue with Android and SQL videos.
+
+## February 2021
+
+- 02/01/2021 - Start section 3 - why recyclerViews are called recyclerViews (hint: it recycles views)
+
     
