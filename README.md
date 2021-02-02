@@ -51,5 +51,6 @@ Lessons learned
 ## February 2021
 
 - 02/01/2021 - Start section 3 - why recyclerViews are called recyclerViews (hint: it recycles views)
+- 02/02/2021 - Continue section 3 - recyclerView adapters
 
     
