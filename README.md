@@ -53,5 +53,6 @@ Lessons learned
 - 02/01/2021 - Start section 3 - why recyclerViews are called recyclerViews (hint: it recycles views)
 - 02/02/2021 - Continue section 3 - recyclerView adapters
 - 02/03/2021 - Continue section 3 - wire up adapter, start on list item click handling
+- 02/04/2021 - Finish section 3
 
     
