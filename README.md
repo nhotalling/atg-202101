@@ -57,4 +57,8 @@ Lessons learned
 - 02/05/2021 - Start section 4 - navigation drawer
 - 02/06/2021 - Continue section 4 - lots of good hands on work as Android Studio now implements the navigation drawer in a slightly different way than the tutorial, which is outdated. Had to figure out how to add a new layout, where to associate it with the display (app_bar_main layout's `layout` property), and how to make it contstrain to the display area (set `layout_behavior` to `appbar_scrolling_view_behavior`)
 
+Commercial Break
+
+- 02/09/2021 - Want: Continue with Android. Need: Grok RxJs. Start [RxJS in Angular: Reactive Development](https://app.pluralsight.com/library/courses/rxjs-angular-reactive-development/table-of-contents)
+
     
