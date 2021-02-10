@@ -60,5 +60,6 @@ Lessons learned
 Commercial Break
 
 - 02/09/2021 - Want: Continue with Android. Need: Grok RxJs. Start [RxJS in Angular: Reactive Development](https://app.pluralsight.com/library/courses/rxjs-angular-reactive-development/table-of-contents)
+- 2/10/2021 - Completed section 3
 
     
