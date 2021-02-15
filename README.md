@@ -1,6 +1,6 @@
 # atg-202101
 
-## January 2021
+## January 2021 30-day Challenge
 
 - 01/01/2021 - Identified a few React Native and SQL Server courses in Pluralsight. Started with [SQL Server: Understanding Database Fundamentals 98-364](https://app.pluralsight.com/library/courses/sqlserver-database-fundamentals/table-of-contents)
  to brush up on db fundamentals. Watched sections 1-3.
@@ -63,4 +63,8 @@ Commercial Break
 - 2/10/2021 - Completed section 3
 - 2/11/2021 - Completed section 4
 
-    
+## February 2021 30-day Challenge
+
+- 2/14/2021 - :( 
+- 2/15/2021 - Start section 5, get sample source code, watch async pipe, refactor sample code
+
