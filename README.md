@@ -65,7 +65,7 @@ Commercial Break
 
 ## February 2021 30-day Challenge
 
-- 2/14/2021 - :( 
 - 2/15/2021 - Start section 5, get sample source code, watch async pipe, refactor sample code
 - 2/16/2021 - Continue section 5, error handling
+- 2/17/2021 - Finish section 5
 
