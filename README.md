@@ -69,4 +69,5 @@ Commercial Break
 - 2/16/2021 - Continue section 5, error handling
 - 2/17/2021 - Finish section 5
 - 2/18/2021 - Finish section 6 - Mapping
+- 2/19/2021 - Start section 7 - Combining streams
 
