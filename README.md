@@ -70,4 +70,5 @@ Commercial Break
 - 2/17/2021 - Finish section 5
 - 2/18/2021 - Finish section 6 - Mapping
 - 2/19/2021 - Start section 7 - Combining streams
+- 2/20/2021 - Finish section 7
 
