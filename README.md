@@ -72,4 +72,5 @@ Commercial Break
 - 2/19/2021 - Start section 7 - Combining streams
 - 2/20/2021 - Finish section 7
 - 2/21/2021 - Start section 8 - Reacting to actions
+- 2/22/2021 - finish section 8
 
