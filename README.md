@@ -74,4 +74,5 @@ Commercial Break
 - 2/21/2021 - Start section 8 - Reacting to actions
 - 2/22/2021 - Finish section 8
 - 2/23/2021 - Start section 9 - Reacting to actions - examples
+- 2/24/2021 - Finish section 9
 
