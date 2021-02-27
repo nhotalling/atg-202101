@@ -77,5 +77,5 @@ Commercial Break
 - 2/24/2021 - Finish section 9
 - -
 - 2/26/2021 - Complete section 10 - Caching observables
-
+- 2/27/2021 - Start section 11 - Higher order mapping operators
 
