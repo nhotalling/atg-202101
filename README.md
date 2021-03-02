@@ -80,13 +80,5 @@ Commercial Break
 - 2/27/2021 - Start section 11 - Higher order mapping operators
 - 2/28/2021 - Finish section 11
 - 3/1/2021 - Complete section 12
-
-RxJS Thoughts
-
-Took a different approach on the RxJS module and did not take detailed notes as I usually do. 
-This certainly allowed me to consume content more quickly, but I'm obviously left without notes
-and still have more of a surface understanding as I did not bother to follow along with the code
-samples after the first demo or two. Ultimately, I was not as interested in the topic, so I didn't 
-invest much into it. I'm still grateful to have a better surface understanding of RxJS, but I'm 
-eager to switch back (switchMap?) to the Android/Kotlin courses.
+- 3/2/2021 - Complete section 13 - course complete
 
