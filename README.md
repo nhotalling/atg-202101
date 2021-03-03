@@ -80,5 +80,6 @@ Commercial Break
 - 2/27/2021 - Start section 11 - Higher order mapping operators
 - 2/28/2021 - Finish section 11
 - 3/1/2021 - Complete section 12
-- 3/2/2021 - Complete section 13 - course complete
+- 3/2/2021 - Complete section 13 - course complete.
 
+- 3/3/201 - Swith gear back to Kotlin/Android. Finsh chapter 4, start chapter 5.
