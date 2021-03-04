@@ -82,4 +82,5 @@ Commercial Break
 - 3/1/2021 - Complete section 12
 - 3/2/2021 - Complete section 13 - course complete.
 
-- 3/3/201 - Swith gear back to Kotlin/Android. Finsh chapter 4, start chapter 5.
+- 3/3/2021 - Switch gear back to Kotlin/Android. Finish section 4, start section 5.
+- 3/4/2021 - Continue section 5
