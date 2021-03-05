@@ -84,3 +84,4 @@ Commercial Break
 
 - 3/3/2021 - Switch gear back to Kotlin/Android. Finish section 4, start section 5.
 - 3/4/2021 - Continue section 5
+- 3/5/2021 - Continue section 5
