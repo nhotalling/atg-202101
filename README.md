@@ -87,3 +87,4 @@ Commercial Break
 - 3/5/2021 - Continue section 5
 - 3/6/2021 - Continue section 5 - Handling NavigationView options
 - 3/7/2021 - Continue section 5 - lazy loading variables
+- 3/8/2021 - Finish section 5
