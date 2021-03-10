@@ -89,3 +89,5 @@ Commercial Break
 - 3/7/2021 - Continue section 5 - lazy loading variables
 - 3/8/2021 - Finish section 5
 - 3/9/2021 - Start section 6 - Testing
+
+- 3/10/2021 - Bailed on the testing stuff for now. Got lost browsing Android Jetpack articles. Started [ViewModel and Lifecycle](https://app.pluralsight.com/player?course=4c807b86-c512-4212-8513-d7c244c4363c&name=4138bdaf-baa8-4780-b5a0-068d7387ea46)
