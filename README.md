@@ -94,3 +94,5 @@ Commercial Break
 - 
 - 3/12/2021 - Continue section 2
 - 3/13/2021 - Continue section 2 - ViewModel - need to find newer implementation
+- 3/14/2021 - Continue section 2 - Found new implementation for ViewModelProvider ('by viewModels()' from activity-ktx library), wire up viewmodel
+
