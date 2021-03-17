@@ -97,4 +97,5 @@ Commercial Break
 - 3/14/2021 - Continue section 2 - Found new implementation for ViewModelProvider ('by viewModels()' from activity-ktx library), wire up viewmodel
 - 3/15/2021 - Finish section 2, start section 3 - Durable activity state
 - 3/16/2021 - Continue section 3 - set/retrieve instance state bundle.
+- 3/17/2021 - Finish section 3, start section 4
 
