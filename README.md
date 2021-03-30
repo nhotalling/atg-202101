@@ -99,3 +99,6 @@ Commercial Break
 - 3/16/2021 - Continue section 3 - set/retrieve instance state bundle.
 - 3/17/2021 - Finish section 3, start section 4
 
+## March 2021 30-day Challenge
+
+- 03/30/2021 - [SQL Server: Indexing for performance](https://app.pluralsight.com/library/courses/sqlserver-indexing-for-performance/table-of-contents) - Watch section 1 and 2
