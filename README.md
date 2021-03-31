@@ -101,4 +101,6 @@ Commercial Break
 
 ## March 2021 30-day Challenge
 
-- 03/30/2021 - [SQL Server: Indexing for performance](https://app.pluralsight.com/library/courses/sqlserver-indexing-for-performance/table-of-contents) - Watch section 1 and 2
+- 03/30/2021 - [SQL Server: Indexing for performance](https://app.pluralsight.com/library/courses/sqlserver-indexing-for-performance/table-of-contents) - Watch section 1 and 2.
+- 03/31/2021 - Start section 3 - row-based vs column-based indexes, workloads
+
