@@ -106,5 +106,5 @@ Commercial Break
 - 04/01/2021 - Short attention span! [Android Room with a View](https://developer.android.com/codelabs/android-room-with-a-view-kotlin) - Steps 1-4. Super fun - manually add a bunch of stuff to your gradle files and try to hide your surprise when it doesn't work.
 - 04/02/2021 - Back to SQL Server - continue section 3
 - 04/03/2021 - SQL Server - continue section 3
-
+- 04/04/2021 - SQL Server - Finish section 3
 
