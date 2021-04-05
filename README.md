@@ -107,4 +107,5 @@ Commercial Break
 - 04/02/2021 - Back to SQL Server - continue section 3
 - 04/03/2021 - SQL Server - continue section 3
 - 04/04/2021 - SQL Server - Finish section 3
+- 04/05/2021 - SQL Server - Start section 4
 
