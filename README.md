@@ -111,4 +111,5 @@ Commercial Break
 - 04/04/2021 - SQL Server - Finish section 3
 - 04/05/2021 - SQL Server - Start section 4
 
-- 04/06/2021 - [React Native: Getting Started 2021](https://app.pluralsight.com/library/courses/react-native-get-started/table-of-contents) - Watched section 1
+- 04/06/2021 - [React Native: Getting Started 2021](https://app.pluralsight.com/library/courses/react-native-get-started/table-of-contents) - Watched section 1 and 2, start section 3
+
