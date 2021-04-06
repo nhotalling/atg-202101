@@ -103,9 +103,12 @@ Commercial Break
 
 - 03/30/2021 - [SQL Server: Indexing for performance](https://app.pluralsight.com/library/courses/sqlserver-indexing-for-performance/table-of-contents) - Watch section 1 and 2.
 - 03/31/2021 - Start section 3 - row-based vs column-based indexes, workloads
+
 - 04/01/2021 - Short attention span! [Android Room with a View](https://developer.android.com/codelabs/android-room-with-a-view-kotlin) - Steps 1-4. Super fun - manually add a bunch of stuff to your gradle files and try to hide your surprise when it doesn't work.
+
 - 04/02/2021 - Back to SQL Server - continue section 3
 - 04/03/2021 - SQL Server - continue section 3
 - 04/04/2021 - SQL Server - Finish section 3
 - 04/05/2021 - SQL Server - Start section 4
 
+- 04/06/2021 - [React Native: Getting Started 2021](https://app.pluralsight.com/library/courses/react-native-get-started/table-of-contents) - Watched section 1
