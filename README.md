@@ -120,4 +120,4 @@ Commercial Break
 - 04/11/2021 - React Native environment won't build anything. :/ Switch gears back to SQL to continue with studies. Continue section 4 - heaps
 - 04/12/2021 - Section 4 - Tree analogy, Scan demo
 - 04/13/2021 - Section 4 - Seek info and demo
-
+- 04/14/2021 - Finish section 4
