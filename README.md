@@ -114,10 +114,13 @@ Commercial Break
 - 04/06/2021 - [React Native: Getting Started 2021](https://app.pluralsight.com/library/courses/react-native-get-started/table-of-contents) - Watched section 1 and 2, start section 3
 - 04/07/2021 - Finish section 3 - double check pre-req installation, generate and build base app, test in emulator 
 - 04/08/2021 - Finish section 4 - create first component
-- 04/09/2021 - Start section 5, run into issues compiling after adding new components
+- 04/09/2021 - Start section 5, run into issues compiling after adding new components (missed an import)
 - 04/10/2021 - Continue section 5
 
-- 04/11/2021 - React Native environment won't build anything. :/ Switch gears back to SQL to continue with studies. Continue section 4 - heaps
+- 04/11/2021 - **SQL Server** Continue section 4 - heaps
 - 04/12/2021 - Section 4 - Tree analogy, Scan demo
 - 04/13/2021 - Section 4 - Seek info and demo
 - 04/14/2021 - Finish section 4
+
+- 04/15/2021 - **React Native** Review previous sections, fix build (missed package), continue section 5
+- 04/16/2021 - Section 5 - flatlist
