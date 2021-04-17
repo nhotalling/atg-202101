@@ -124,3 +124,4 @@ Commercial Break
 
 - 04/15/2021 - **React Native** Review previous sections, fix build (missed package), continue section 5
 - 04/16/2021 - Section 5 - flatlist
+- 04/17/2021 - Finish section 5 - add menu
