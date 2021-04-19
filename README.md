@@ -126,3 +126,4 @@ Commercial Break
 - 04/16/2021 - Section 5 - flatlist
 - 04/17/2021 - Finish section 5 - add menu
 - 04/18/2021 - Start section 6 - add contact screen
+- 04/19/2021 - Finish section 6 - add ticket purchase screen, test app
