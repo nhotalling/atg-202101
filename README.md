@@ -128,3 +128,4 @@ Commercial Break
 - 04/18/2021 - Start section 6 - add contact screen
 - 04/19/2021 - Finish section 6 - add ticket purchase screen, test app
 - 04/20/2021 - Finish section 7 - add sample api fetch/display
+- 04/21/2021 - Finish section 8 (last one) - Signing/building release app
