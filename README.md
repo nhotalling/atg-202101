@@ -129,3 +129,5 @@ Commercial Break
 - 04/19/2021 - Finish section 6 - add ticket purchase screen, test app
 - 04/20/2021 - Finish section 7 - add sample api fetch/display
 - 04/21/2021 - Finish section 8 (last one) - Signing/building release app
+
+- 04/22/2021 - Self study - Review possible next courses for RN, research storage options
