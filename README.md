@@ -131,3 +131,5 @@ Commercial Break
 - 04/21/2021 - Finish section 8 (last one) - Signing/building release app
 
 - 04/22/2021 - Self study - Review possible next courses for RN, research storage options
+
+- 04/23/2021 - Start another RN tutorial, [Building Mobile Apps with React Native](https://app.pluralsight.com/library/courses/building-mobile-apps-react-native/table-of-contents)
