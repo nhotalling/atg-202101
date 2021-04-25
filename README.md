@@ -134,3 +134,4 @@ Commercial Break
 
 - 04/23/2021 - Start another RN tutorial, [Building Mobile Apps with React Native](https://app.pluralsight.com/library/courses/building-mobile-apps-react-native/table-of-contents)
 - 04/24/2021 - Watch section 3 - Navigation / Routes - Way more detailed than the 'getting started 2021' course which just shows code with very little explanation
+- 04/25/2021 - Watch majority of section 4 - gestures
