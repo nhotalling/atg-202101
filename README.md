@@ -136,3 +136,4 @@ Commercial Break
 - 04/24/2021 - Watch section 3 - Navigation / Routes - Way more detailed than the 'getting started 2021' course which just shows code with very little explanation
 - 04/25/2021 - Watch majority of section 4 - gestures
 - 04/26/2021 - Watch majority of section 5 - xhr
+- 04/27/2021 - Finish section 5 / course
