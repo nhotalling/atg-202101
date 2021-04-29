@@ -139,3 +139,4 @@ Commercial Break
 - 04/27/2021 - Finish section 5 / course
 
 - 04/28/2021 - Start another RN tutorial, [React Native Component Playbook](https://app.pluralsight.com/library/courses/react-native-components-playbook/table-of-contents)
+- 04/29/2021 - Finish section 2
