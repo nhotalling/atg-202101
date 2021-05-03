@@ -143,3 +143,4 @@ Commercial Break
 - 04/30/2021 - Start section 3, ScrollView
 - 05/01/2021 - Continue section 3, ScrollView - sticky headers, paging, scroll methods
 - 05/02/2021 - Start section 4 - FlatList
+- 05/03/2021 - Finish section 4
